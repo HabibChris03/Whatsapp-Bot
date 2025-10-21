@@ -1,0 +1,45 @@
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'compute-pressure'.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'shared-storage'.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[1021/042015.779:INFO:CONSOLE(0)] "Document-Policy HTTP header: Unrecognized document policy feature name include-js-call-stacks-in-crash-reports.", source: https://web.whatsapp.com/ (0)
+[1021/042023.657:INFO:CONSOLE(113)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yj/r/nJsMJe2eu2d.js (113)
+[1021/042107.078:INFO:CONSOLE(113)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yj/r/nJsMJe2eu2d.js (113)
+[1021/042207.483:INFO:CONSOLE(113)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yj/r/nJsMJe2eu2d.js (113)
+[1021/042610.828:INFO:CONSOLE(881)] "Failed to parse video contentType: video/mp4; codecs=avc1.42000a", source: https://static.whatsapp.net/rsrc.php/v4ijAE4/y6/l/en_US-j/bk79FZfabr9.js (881)
+[1021/042610.828:INFO:CONSOLE(881)] "Failed to parse video contentType: video/mp4; codecs=hev1.1.6.L93.B0", source: https://static.whatsapp.net/rsrc.php/v4ijAE4/y6/l/en_US-j/bk79FZfabr9.js (881)
+[1021/042615.079:INFO:CONSOLE(113)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yj/r/nJsMJe2eu2d.js (113)
+[1021/043119.150:INFO:CONSOLE(113)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yj/r/nJsMJe2eu2d.js (113)
+[1021/044426.325:INFO:CONSOLE(113)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yj/r/nJsMJe2eu2d.js (113)
+[1021/044426.582:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[1021/044426.582:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[1021/044426.582:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'compute-pressure'.", source:  (0)
+[1021/044426.582:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[1021/044426.583:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.", source:  (0)
+[1021/044426.583:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'shared-storage'.", source:  (0)
+[1021/044426.583:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
+[1021/044426.583:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.", source:  (0)
+[1021/044426.583:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[1021/044426.583:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[1021/044426.584:INFO:CONSOLE(0)] "Document-Policy HTTP header: Unrecognized document policy feature name include-js-call-stacks-in-crash-reports.", source: https://web.whatsapp.com/ (0)
+[1021/044427.562:ERROR:entry_impl.cc(1072)] No file for 80000011
+[1021/044427.562:ERROR:entry_impl.cc(1072)] No file for 8000000b
+[1021/044427.564:ERROR:entry_impl.cc(1072)] No file for 8000000f
+[1021/044427.565:ERROR:entry_impl.cc(1072)] No file for 80000010
+[1021/044427.566:ERROR:entry_impl.cc(1072)] No file for 8000000e
+[1021/044427.567:ERROR:entry_impl.cc(1072)] No file for 8000000c
+[1021/044427.567:ERROR:entry_impl.cc(1072)] No file for 8000000d
+[1021/044427.788:ERROR:entry_impl.cc(1072)] No file for 80000012
+[1021/044430.691:INFO:CONSOLE(77)] "ErrorUtils caught an error:
+
+[sw] sw-update-failed: AbortError: Failed to update a ServiceWorker for scope ('https://web.whatsapp.com/') with script ('https://web.whatsapp.com/sw.js'): Failed to access storage.
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yc/r/0uwY6N15B7i.js (77)
+[1021/044430.710:ERROR:entry_impl.cc(1072)] No file for 80000014
+[1021/044430.718:INFO:CONSOLE(1)] "Uncaught NetworkError: Failed to execute 'importScripts' on 'WorkerGlobalScope': The script at 'https://static.whatsapp.net/rsrc.php/v4/y_/r/M1CzyhNxrl8.js' failed to load.", source: https://web.whatsapp.com/static_resources/webworker_v1/init_script/?__hs=20382.HYP%3Awhatsapp_comet_pkg.2.1...0&__spin_r=1028704938&__spin_b=trunk&__spin_t=1761050666 (1)
